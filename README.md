@@ -1,2 +1,3 @@
-# seeplus-api
-The Seeplus API client for Python
+# Seeplus API Client
+
+The Seeplus API client for Python.
