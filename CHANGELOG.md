@@ -10,7 +10,7 @@ and this project adheres to
 
 ### Added
 
-* Initial working version of the API client
+*
 
 ### Changed
 
@@ -19,3 +19,9 @@ and this project adheres to
 ### Fixed
 
 *
+
+## [0.1.0] - 2023-03-19
+
+### Added
+
+* Initial working version of the API client
