@@ -41,9 +41,5 @@ class OrderAPI(object):
 
     def create_order(self, payload):
         url = self.base_url + "order"
-        contents = self.post(
-            url,
-            auth = False,
-            data_j = payload
-        )
+        contents = self.post(url, data_j = payload)
         return contents
