@@ -18,7 +18,7 @@ and this project adheres to
 
 ### Fixed
 
-*
+* Auth flag in the create order API request
 
 ## [0.1.0] - 2023-03-19
 
